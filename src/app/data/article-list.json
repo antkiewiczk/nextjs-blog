@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "headline": "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+    "bannerImage": "/image-1.jpg",
+    "author": "SepteFang Rhythmflow"
+  },
+  {
+    "id": 2,
+    "headline": "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+    "bannerImage": "/image-2.jpg",
+    "author": "SepteFang Rhythmflow"
+  },
+  {
+    "id": 3,
+    "headline": "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+    "bannerImage": "/image-3.jpg",
+    "author": "SepteFang Rhythmflow"
+  },
+  {
+    "id": 4,
+    "headline": "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+    "bannerImage": "/image-3.jpg",
+    "author": "SepteFang Rhythmflow"
+  },
+  {
+    "id": 5,
+    "headline": "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+    "bannerImage": "/image-3.jpg",
+    "author": "SepteFang Rhythmflow"
+  },
+  {
+    "id": 6,
+    "headline": "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+    "bannerImage": "/image-3.jpg",
+    "author": "SepteFang Rhythmflow"
+  },
+  {
+    "id": 7,
+    "headline": "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+    "bannerImage": "/image-3.jpg",
+    "author": "SepteFang Rhythmflow"
+  },
+  {
+    "id": 8,
+    "headline": "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+    "bannerImage": "/image-3.jpg",
+    "author": "SepteFang Rhythmflow"
+  }
+]
