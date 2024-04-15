@@ -3,48 +3,54 @@
     "id": 1,
     "headline": "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
     "bannerImage": "/image-1.jpg",
-    "author": "SepteFang Rhythmflow"
+    "author": "SepteFang Rhythmflow",
+    "date": "2024-04-02T21:25:01.463Z"
   },
   {
     "id": 2,
     "headline": "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
     "bannerImage": "/image-2.jpg",
-    "author": "SepteFang Rhythmflow"
+    "author": "SepteFang Rhythmflow",
+    "date": "2023-09-11T21:25:01.463Z"
   },
   {
     "id": 3,
     "headline": "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
     "bannerImage": "/image-3.jpg",
-    "author": "SepteFang Rhythmflow"
+    "author": "Wasyl Gojny"
   },
   {
     "id": 4,
     "headline": "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
     "bannerImage": "/image-3.jpg",
-    "author": "SepteFang Rhythmflow"
+    "author": "SepteFang Rhythmflow",
+    "date": "2023-09-11T21:25:01.463Z"
   },
   {
     "id": 5,
     "headline": "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
     "bannerImage": "/image-3.jpg",
-    "author": "SepteFang Rhythmflow"
+    "author": "Wasyl Gojny"
   },
   {
     "id": 6,
     "headline": "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
     "bannerImage": "/image-3.jpg",
-    "author": "SepteFang Rhythmflow"
+    "author": "SepteFang Rhythmflow",
+    "date": "2023-09-11T21:25:01.463Z"
   },
   {
     "id": 7,
     "headline": "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
     "bannerImage": "/image-3.jpg",
-    "author": "SepteFang Rhythmflow"
+    "author": "SepteFang Rhythmflow",
+    "date": "2023-09-11T21:25:01.463Z"
   },
   {
     "id": 8,
     "headline": "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
     "bannerImage": "/image-3.jpg",
-    "author": "SepteFang Rhythmflow"
+    "author": "Wasyl Gojny",
+    "date": "2023-09-11T21:25:01.463Z"
   }
 ]

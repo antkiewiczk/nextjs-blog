@@ -3,4 +3,5 @@ export interface Article {
   headline: string;
   bannerImage: string;
   author: string;
+  date?: string; 
 }
