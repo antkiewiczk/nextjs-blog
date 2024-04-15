@@ -9,7 +9,10 @@ interface ArticlePreviewProps {
 }
 
 export const ArticlePreviewItem = ({ article }: ArticlePreviewProps) => {
-  const { id, headline, bannerImage, author, date } = article;
+  const {
+    id,
+    head: { headline, bannerImage, author, date },
+  } = article;
 
   const formattedDate = date ? formatDate(date) : null;
 
@@ -25,7 +28,7 @@ export const ArticlePreviewItem = ({ article }: ArticlePreviewProps) => {
           />
         </div>
         <div className="mt-4">
-          <h4 className="text-2xl leading-tight">{headline}</h4>
+          <h4 className="text-xl md:text-2xl leading-tight">{headline}</h4>
         </div>
         <div className="mt-4">
           <span>by {author}</span>

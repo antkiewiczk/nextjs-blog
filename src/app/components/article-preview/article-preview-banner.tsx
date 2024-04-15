@@ -9,7 +9,10 @@ interface ArticleBannerProps {
 }
 
 export function ArticlePreviewBanner({ article }: ArticleBannerProps) {
-  const { id, headline, bannerImage, author, date } = article;
+  const {
+    id,
+    head: { headline, bannerImage, author, date },
+  } = article;
 
   const formattedDate = date ? formatDate(date) : null;
 
@@ -25,7 +28,7 @@ export function ArticlePreviewBanner({ article }: ArticleBannerProps) {
           />
         </div>
         <div className="mt-4">
-          <h1 className="text-5xl leading-tight mr-0 md:mr-24">{headline}</h1>
+          <h1 className="text-3xl md:text-5xl leading-tight mr-0 md:mr-24">{headline}</h1>
         </div>
         <div className="mt-4">
           <span>by {author}</span>

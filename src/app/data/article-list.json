@@ -1,56 +1,74 @@
 [
   {
     "id": 1,
-    "headline": "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
-    "bannerImage": "/image-1.jpg",
-    "author": "SepteFang Rhythmflow",
-    "date": "2024-04-02T21:25:01.463Z"
+    "head": {
+      "headline": "Exploring the Idyllic Isle: A Three-Week Workation in Corfu, Greece",
+      "bannerImage": "/image-1.jpg",
+      "author": "John Doe",
+      "date": "2023-09-11T21:25:01.463Z"
+    }
   },
   {
     "id": 2,
-    "headline": "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
-    "bannerImage": "/image-2.jpg",
-    "author": "SepteFang Rhythmflow",
-    "date": "2023-09-11T21:25:01.463Z"
+    "head": {
+      "headline": "A Journey to the Arctic: Two Weeks of Workation in Lofoten, Norway",
+      "bannerImage": "/image-1.jpg",
+      "author": "John Doe",
+      "date": "2023-09-15T15:30:00.000Z"
+    }
   },
   {
     "id": 3,
-    "headline": "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
-    "bannerImage": "/image-3.jpg",
-    "author": "Wasyl Gojny"
+    "head": {
+      "headline": "Embracing the Island of Eternal Spring: Two Weeks in Tenerife",
+      "bannerImage": "/image-1.jpg",
+      "author": "John Doe",
+      "date": "2023-10-05T14:20:30.000Z"
+    }
   },
   {
     "id": 4,
-    "headline": "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
-    "bannerImage": "/image-3.jpg",
-    "author": "SepteFang Rhythmflow",
-    "date": "2023-09-11T21:25:01.463Z"
+    "head": {
+      "headline": "Gran Canaria: A Sunlit Paradise of Sand and Sea",
+      "bannerImage": "/image-1.jpg",
+      "author": "John Doe",
+      "date": "2023-10-12T09:30:00.000Z"
+    }
   },
   {
     "id": 5,
-    "headline": "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
-    "bannerImage": "/image-3.jpg",
-    "author": "Wasyl Gojny"
+    "head": {
+      "headline": "Faroe Islands: Untamed Beauty in the North Atlantic",
+      "bannerImage": "/image-1.jpg",
+      "author": "John Doe",
+      "date": "2023-10-19T11:45:00.000Z"
+    }
   },
   {
     "id": 6,
-    "headline": "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
-    "bannerImage": "/image-3.jpg",
-    "author": "SepteFang Rhythmflow",
-    "date": "2023-09-11T21:25:01.463Z"
+    "head": {
+      "headline": "Alpine Majesty: Two Weeks Trekking Through the French Alps",
+      "bannerImage": "/image-1.jpg",
+      "author": "John Doe",
+      "date": "2023-08-05T16:00:00.000Z"
+    }
   },
   {
     "id": 7,
-    "headline": "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
-    "bannerImage": "/image-3.jpg",
-    "author": "SepteFang Rhythmflow",
-    "date": "2023-09-11T21:25:01.463Z"
+    "head": {
+      "headline": "Italian Alps Adventure: Discovering the Dolomites",
+      "bannerImage": "/image-1.jpg",
+      "author": "John Doe",
+      "date": "2023-08-20T10:15:00.000Z"
+    }
   },
   {
     "id": 8,
-    "headline": "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
-    "bannerImage": "/image-3.jpg",
-    "author": "Wasyl Gojny",
-    "date": "2023-09-11T21:25:01.463Z"
+    "head": {
+      "headline": "Three Months in Thailand: A Tropical Workation Adventure",
+      "bannerImage": "/image-1.jpg",
+      "author": "John Doe",
+      "date": "2023-11-01T12:30:00.000Z"
+    }
   }
 ]

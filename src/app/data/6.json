@@ -1,0 +1,49 @@
+{
+  "id": 6,
+  "head": {
+    "headline": "Alpine Majesty: Two Weeks Trekking Through the French Alps",
+    "bannerImage": "/image-1.jpg",
+    "author": "John Doe",
+    "date": "2023-08-05T16:00:00.000Z"
+  },
+  "blocks": [
+    {
+      "type": "text",
+      "text": "The French Alps are an outdoor enthusiast's paradise, offering breathtaking landscapes and a variety of trails that cater to all skill levels. My two-week trek started in Chamonix, the iconic alpine town beneath Mont Blanc. Here, the air was crisp, and the mountains towered above, silent and imposing. Daily hikes took me through paths lined with wildflowers, around clear mountain lakes, and across ridges with panoramic views of jagged peaks."
+    },
+    {
+      "type": "image",
+      "src": "/image-2.jpg"
+    },
+    {
+      "type": "text",
+      "text": "Each day ended with a return to Chamonix, where the evening sun bathed the mountains in golden light. Local cuisine, particularly fondue and raclette, provided the perfect way to replenish after a day's exertions. The town's vibrant atmosphere, with visitors from around the globe, made evenings lively and enjoyable."
+    },
+    {
+      "type": "break",
+      "imageSrc": "/image-5.jpg",
+      "text": "The Heart of the Alps: Life Above the Clouds"
+    },
+    {
+      "type": "text",
+      "text": "Venturing further, I explored the Vanoise National Park, a haven of tranquility and natural beauty. The highlight was spotting an ibex atop a rocky outcrop, a rare sight that symbolized the wild essence of the Alps. The presence of glaciers, slowly carving the mountains under centuries-old forces, was a powerful reminder of nature’s grandeur and permanence."
+    },
+    {
+      "type": "quote",
+      "text": "'The mountains are not merely something to be seen or conquered, but to be experienced and respected.'",
+      "author": "Jane Smith"
+    },
+    {
+      "type": "image",
+      "src": "/image-3.jpg"
+    },
+    {
+      "type": "image",
+      "src": "/image-4.jpg"
+    },
+    {
+      "type": "text",
+      "text": "As the journey concluded, the serene beauty of the Alps remained a vivid memory. From the exhilarating heights of the peaks to the cozy, candle-lit dinners in Chamonix, the French Alps provided a perfect blend of adventure and relaxation, making every day an unforgettable chapter in my travel diary."
+    }
+  ]
+}
