@@ -1,4 +1,5 @@
 import Image from "next/image";
+import { notFound } from "next/navigation";
 
 import { fetchArticle } from "@/app/_actions/article-fetch-action";
 import renderArticleBlock from "@/app/components/article/article-block-renderer";
@@ -8,17 +9,17 @@ interface ArticleProps {
   params: { id: number };
 }
 
-export default async function Article({ params }: ArticleProps) {
-  const article = await fetchArticle({ id: params.id });
+export default async function ArticlePage({ params }: ArticleProps) {
+  const data = await fetchArticle({ id: params.id });
 
-  if (!article) {
-    console.log("redirect to 404 here");
+  if ("error" in data) {
+    notFound();
   }
 
   const {
     id,
     head: { headline, bannerImage, author, date },
-  } = article;
+  } = data;
 
   const formattedDate = date ? formatDate(date) : null;
 
@@ -42,7 +43,7 @@ export default async function Article({ params }: ArticleProps) {
           <span>by {author}</span>
           {formattedDate && <span> | {formattedDate}</span>}
         </div>
-        <div>{article.blocks.map((block) => renderArticleBlock(block))}</div>
+        <div>{data.blocks.map((block) => renderArticleBlock(block))}</div>
       </article>
     </main>
   );
