@@ -36,7 +36,7 @@ export interface ArticleBlockQuote extends ArticleBlock {
 export interface Article {
   id: number;
   head: ArticleHead;
-  blocks: (
+  blocks?: (
     | ArticleBlockText
     | ArticleBlockImage
     | ArticleBlockBreak

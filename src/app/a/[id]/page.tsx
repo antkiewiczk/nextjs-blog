@@ -19,6 +19,7 @@ export default async function ArticlePage({ params }: ArticleProps) {
   const {
     id,
     head: { headline, bannerImage, author, date },
+    blocks,
   } = data;
 
   const formattedDate = date ? formatDate(date) : null;
@@ -43,7 +44,9 @@ export default async function ArticlePage({ params }: ArticleProps) {
           <span>by {author}</span>
           {formattedDate && <span> | {formattedDate}</span>}
         </div>
-        <div>{data.blocks.map((block) => renderArticleBlock(block))}</div>
+        {blocks ? (
+          <div>{blocks.map((block) => renderArticleBlock(block))}</div>
+        ) : null}
       </article>
     </main>
   );

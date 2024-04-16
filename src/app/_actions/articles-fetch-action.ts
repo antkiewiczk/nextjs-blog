@@ -6,3 +6,4 @@ import { Article } from "../types/article";
 export async function fetchArticles(): Promise<Article[]> {
   return articleList;
 }
+ 
